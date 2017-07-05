@@ -3,6 +3,7 @@ import {Component} from '@angular/core';
 @Component({
     selector:'root-component',
     templateUrl:'./rootcomponent.html',
+    styleUrls:['./rootcomponent.css']
     
 
 })
